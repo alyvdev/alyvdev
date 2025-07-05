@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Flask, FastAPI**
 
-- 👨‍💻 All of my projects are available at [alyv.dev/portfolio](alyv.dev/portfolio)
+- 👨‍💻 All of my projects are available at [https://alyv.dev/portfolio](https://alyv.dev/portfolio)
 
-- 📝 I regularly write articles on [alyv.dev/articles](alyv.dev/articles)
+- 📝 I regularly write articles on [https://alyv.dev/articles](https://alyv.dev/articles)
 
 - 💬 Ask me about **Graphic design and Front-end web development**
 
